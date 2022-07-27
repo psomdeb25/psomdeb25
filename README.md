@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **psomdeb25/psomdeb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
