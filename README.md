@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm also building my data science portfolio using **Python and R** to assist me in designing efficient pipelines for statistical analysis in drug discovery programmes.
 
-- 🌱 I’m currently also learning **Python for Data Science; and Java** to create an app that would go along with my channel.
-
 - 🤔 Interests: **Drug Discovery, Automation Workflows, Data Science, and Computational Biology.**
 
 - ⚡ Hobbies: When I’m not working, I love reading books mainly non-fiction (science and economics) or history, going on hikes, traveling, listening to rock/pop music, playing piano (keyboard).
